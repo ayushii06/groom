@@ -19,11 +19,33 @@
     z-index: -1;
     background: url(./asset/Gradient.png);
     height: 126.7vh;
-    width: 96%;
+    width: 94%;
     position: absolute;
     top: -171px;
     right: 0px;
 
+}
+
+.bg2{
+    z-index: -1;
+    background: url(./asset/Gradient\ \(1\).png);
+    height: 75.7vh;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.carousel-item{
+    text-align: center;
+    width: 31%;
+}
+
+select{
+    padding: 3%;
+    width: 152%;
+    border: 1px solid #e3e3e3;
+    border-radius: 6px;
 }
 
 .heading{
@@ -55,3 +77,5 @@ text-align: left;
     width: 38px;
     margin: 0 auto;
 }
+
+        
