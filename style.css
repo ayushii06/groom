@@ -15,26 +15,7 @@
 
 }
 
-.bg{
-    z-index: -1;
-    background: url(./asset/Gradient.png);
-    height: 126.7vh;
-    width: 94%;
-    position: absolute;
-    top: -171px;
-    right: 0px;
 
-}
-
-.bg2{
-    z-index: -1;
-    background: url(./asset/Gradient\ \(1\).png);
-    height: 75.7vh;
-    width: 100%;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
 
 .carousel-item{
     text-align: center;
